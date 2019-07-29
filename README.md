@@ -7,7 +7,7 @@
 
 * [Denise Özoğul - /atomdeniz](https://www.github.com/atomdeniz)
 * [Souhaib "Şuayip" Felmez - /0x00000078](https://www.github.com/0x00000078)
-* [Hakan Yakçınkaya](https://github.com/hakanyalcinkaya)
+* [Hakan Yakçınkaya - /hakanyalcinkaya](https://github.com/hakanyalcinkaya)
 * [Berk Batuhan ŞAKAR](https://github.com/berkbatuhans)
 * [Başak Yıldırım](https://github.com/basakyildirim) 
 * [Berat Gökberk İşler - /beratgisler](https://github.com/beratgisler)
