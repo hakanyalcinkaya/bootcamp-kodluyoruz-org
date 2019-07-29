@@ -2,7 +2,6 @@
 
 >> Kodluyoruz.org için Geliştirilen BootCamp Projesi
 
-=======
 ## Katkıda Bulunanlar
 
 * [Deniz Özoğul - /atomdeniz](https://www.github.com/atomdeniz)
