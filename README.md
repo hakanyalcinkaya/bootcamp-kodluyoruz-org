@@ -2,19 +2,6 @@
 
 >> Kodluyoruz.org için Geliştirilen BootCamp Projesi
 
-<<<<<<< HEAD
-
-
-
-
-
-
-
-
-
-
-
-
 =======
 ## Katkıda bulunanlar
 
