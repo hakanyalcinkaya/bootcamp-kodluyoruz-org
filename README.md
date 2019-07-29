@@ -8,7 +8,7 @@
 * [Souhaib "Şuayip" Felmez - /0x00000078](https://www.github.com/0x00000078)
 * [Hakan Yakçınkaya](https://github.com/hakanyalcinkaya)
 Berk Batuhan ŞAKAR,
-Başak Yıldırım, 
+* [Başak Yıldırım](https://github.com/basakyildirim) 
 Berat İşler, 
 Güven Altunsoy, 
 İpek Özkan, 
