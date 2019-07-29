@@ -1,6 +1,6 @@
 # bootcamp.kodluyoruz.org
 
->> Kodluyoruz.org için Geliştirilen BootCamp Projesi
+> Kodluyoruz.org için Geliştirilen BootCamp Projesi
 
 ## Katkıda Bulunanlar
 
@@ -19,5 +19,3 @@
 İbrahim Taşkın
 Melike Şen
 Emran Şener
-
-DENEME-IRF
