@@ -11,8 +11,8 @@
 * [Berk Batuhan ŞAKAR](https://github.com/berkbatuhans)
 * [Başak Yıldırım](https://github.com/basakyildirim) 
 * [Berat Gökberk İşler - /beratgisler](https://github.com/beratgisler)
-Güven Altunsoy, 
-İpek Özkan, 
+* [İpek Özkan - /ipekesma](https://github.com/ipekesma)
+Güven Altunsoy,
 * [İrfan Topçuoğlu - /irfantopcuoglu](https://github.com/irfantopcuoglu)
 * [Umutcan Tekci](https://github.com/umutct13)
 [Z. Özge Yılmaz - /zozgeyilmaz](https://github.com/zozgeyilmaz)
