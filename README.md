@@ -12,7 +12,7 @@ Başak Yıldırım,
 Berat İşler, 
 Güven Altunsoy, 
 İpek Özkan, 
-İrfan Topçuoğlu, 
+* [İrfan Topçuoğlu - /irfantopcuoglu](https://github.com/irfantopcuoglu)
 Umutcan Tekci, 
 Z. Özge Yılmaz
 Gökhan Çaçan
