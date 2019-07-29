@@ -7,5 +7,5 @@
 * [Deniz Özoğul - /atomdeniz](https://www.github.com/atomdeniz)
 
 
-* [Souhaib "Şuayip" Felmez - /atomdeniz](https://www.github.com/0x00000078)
+* [Souhaib "Şuayip" Felmez - /0x00000078](https://www.github.com/0x00000078)
 
