@@ -14,7 +14,6 @@
 Güven Altunsoy, 
 İpek Özkan, 
 * [İrfan Topçuoğlu - /irfantopcuoglu](https://github.com/irfantopcuoglu)
-Umutcan Tekci, 
 İrfan Topçuoğlu, 
 * [Umutcan Tekci](https://github.com/umutct13)
 Z. Özge Yılmaz
