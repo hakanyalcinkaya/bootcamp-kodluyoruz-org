@@ -15,8 +15,8 @@
 Güven Altunsoy,
 * [İrfan Topçuoğlu - /irfantopcuoglu](https://github.com/irfantopcuoglu)
 * [Umutcan Tekci](https://github.com/umutct13)
-[Z. Özge Yılmaz - /zozgeyilmaz](https://github.com/zozgeyilmaz)
-Gökhan Çaçan
+* [Z. Özge Yılmaz - /zozgeyilmaz](https://github.com/zozgeyilmaz)
+* [Gökhan Çaçan - /goko1](https://github.com/goko1)
 İbrahim Taşkın
 Melike Şen
 Emran Şener
