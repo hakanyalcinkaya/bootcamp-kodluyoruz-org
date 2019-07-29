@@ -5,7 +5,11 @@
 =======
 ## Katkıda bulunanlar
 
+<<<<<<< HEAD
 * [Deniz Özoğul - /atomdeniz](https://www.github.com/atomdeniz)
+=======
+* [Denizeeeee Özoğul - /atomdeniz](https://www.github.com/atomdeniz)
+>>>>>>> green_tea
 * [Souhaib "Şuayip" Felmez - /0x00000078](https://www.github.com/0x00000078)
 * [Hakan Yakçınkaya](https://github.com/hakanyalcinkaya)
 * [Berk Batuhan ŞAKAR](https://github.com/berkbatuhans)
