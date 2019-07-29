@@ -16,6 +16,8 @@
 * [Umutcan Tekci - /umutct13](https://github.com/umutct13)
 * [Z. Özge Yılmaz - /zozgeyilmaz](https://github.com/zozgeyilmaz)
 * [Gökhan Çaçan - /goko1](https://github.com/goko1)
-* İbrahim Taşkın
-* Melike Şen
-* Emran Şener
+İbrahim Taşkın
+Melike Şen
+Emran Şener
+
+DENEME-IRF
