@@ -10,7 +10,7 @@
 * [Hakan Yakçınkaya](https://github.com/hakanyalcinkaya)
 * [Berk Batuhan ŞAKAR](https://github.com/berkbatuhans)
 * [Başak Yıldırım](https://github.com/basakyildirim) 
-Berat İşler, 
+* [Berat Gökberk İşler - /beratgisler](https://github.com/beratgisler)
 Güven Altunsoy, 
 İpek Özkan, 
 * [İrfan Topçuoğlu - /irfantopcuoglu](https://github.com/irfantopcuoglu)
