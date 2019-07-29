@@ -7,6 +7,8 @@
 !.vscode/launch.json
 !.vscode/extensions.json
 
+.DS_Store
+
 # Migrations:
 */*/migrations/0*
 
