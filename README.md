@@ -5,7 +5,7 @@
 ## Katkıda Bulunanlar
 
 * [Deniz Özoğul - /atomdeniz](https://www.github.com/atomdeniz)
-* [Souhaib "Şuayip" Felmez - /0x00000078](https://www.github.com/0x00000078)
+* [Şuayip Felmez - /felmez](https://www.github.com/felmez)
 * [Hakan Yakçınkaya - /hakanyalcinkaya](https://github.com/hakanyalcinkaya)
 * [Berk Batuhan ŞAKAR - /berkbatuhans](https://github.com/berkbatuhans)
 * [Başak Yıldırım -/basakyildirim](https://github.com/basakyildirim) 
